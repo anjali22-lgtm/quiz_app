@@ -1,33 +1,53 @@
-# React Quiz App
+🎉 React Quiz App
 
-A simple interactive **React Quiz App** built with **React**, **Vite**, and **CSS/Bootstrap**.  
-Users can select a **category** and **difficulty**, answer multiple-choice questions from **Open Trivia DB API**, and see their **score** at the end, including a review of any wrong answers.
+A simple and interactive Quiz Application built with React and Vite.
 
----
+Live Demo: https://anjali22-lgtm.github.io/quiz_app
 
-## Features
+🌟 Features
 
-- Home / Welcome page  
-- Quiz Setup (Category + Difficulty)  
-- Multiple-choice questions fetched from API  
-- Shows score at the end  
-- Displays wrong answers with correct answers  
-- Back to Home / Setup buttons  
-- Clean and responsive UI  
+📝 Select Quiz Category
 
----
+🎯 Choose Difficulty: Easy, Medium, Hard
 
-## Tech Stack
+📊 Displays Score at the End
 
-- React.js  
-- Vite  
-- CSS / Bootstrap  
-- Open Trivia DB API  
+💻 Responsive UI
 
----
+🌐 Fully Deployed on GitHub Pages
 
-## How to Run Locally
+🚀 Run Locally
 
-1. Clone the repo:
-```bash
+Clone the repository:
+
 git clone https://github.com/anjali22-lgtm/quiz_app.git
+cd quiz_app
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm run dev
+
+
+Open your browser at:
+
+Local: http://localhost:5173/
+
+📦 Build & Deploy
+
+Build for production:
+
+npm run build
+
+
+Deploy to GitHub Pages:
+
+npm run deploy
+
+
+Live app link: https://anjali22-lgtm.github.io/quiz_app

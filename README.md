@@ -2,7 +2,8 @@
 
 A simple and interactive Quiz Application built with React and Vite.
 
-Live Demo: https://anjali22-lgtm.github.io/quiz_app
+Live Demo: https://anjali22-lgtm.github.io/quiz_app/
+
 
 🌟 Features
 
